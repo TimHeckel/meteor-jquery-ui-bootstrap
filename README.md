@@ -5,4 +5,4 @@ This is [jquery-ui-bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/)
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt install jquery-ui-bootstrap`
+2. `mrt add jquery-ui-bootstrap`
