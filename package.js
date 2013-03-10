@@ -19,7 +19,7 @@ Package.on_use(function (api) {
         'css/images/ui-icons_888888_256x240.png',
         'css/images/ui-icons_cd0a0a_256x240.png',
         'css/images/ui-icons_f6cf3b_256x240.png',
-        'css/jquery.ui.1.8.16.ie.css',
-        'css/jquery-ui-1.8.16.custom.css'
+        'css/jquery.ui.1.9.2.ie.css',
+        'css/jquery-ui-1.9.2.custom.css'
     ], 'client');
 });

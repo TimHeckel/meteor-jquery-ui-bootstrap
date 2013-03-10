@@ -3,10 +3,9 @@
     "description": "Custom jQuery UI CSS theme for use with Twitter Bootstrap",
     "homepage": "https://github.com/TimHeckel/meteor-jquery-ui-bootstrap",
     "author": "Tim Heckel  (http://timheckel.com)",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "git": "https://github.com/TimHeckel/meteor-jquery-ui-bootstrap.git",
     "packages": {
-        "bootstrap-updated": "1.0.1"
-        , "jquery-ui": "1.8.16"
+        "jquery-ui": "1.9.2"
     }
 }
