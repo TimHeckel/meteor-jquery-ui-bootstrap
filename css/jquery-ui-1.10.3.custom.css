@@ -2264,6 +2264,7 @@ input[type=file]:focus, input[type=checkbox]:focus, select:focus {
 	outline: 1px dotted #666;
 }
 
+/* MDB - removed because of conflict with Bootstrap
 input[type="text"],
 input[type="email"],
 input[type="tel"],
@@ -2273,16 +2274,19 @@ input[type="password"],
 .ui-autocomplete-input,
 textarea,
 .uneditable-input {
-	display: inline-block;
-	padding: 4px;
-	font-size: 13px;
-	line-height: 18px;
-	color: #555555;
-	border: 1px solid #ccc;
-	-webkit-border-radius: 3px; /* Safari 4 */
-	-moz-border-radius: 3px; /* Firefox 3.6 */
-	border-radius: 3px;
+    display: inline-block;
+    padding: 4px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #555555;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 3px; /* Safari 4 */
+    /*
+    -moz-border-radius: 3px; /* Firefox 3.6 */
+    /*
+    border-radius: 3px;
 }
+*/
 
 /**Toolbar**/
 
