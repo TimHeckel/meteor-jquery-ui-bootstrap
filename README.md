@@ -8,6 +8,7 @@ This is [jquery-ui-bootstrap](http://addyosmani.github.com/jquery-ui-bootstrap/)
 
 This is a fork from
 https://github.com/michaelbishop/meteor-jquery-ui-bootstrap3
+
 Which was a fork from
 https://github.com/TimHeckel/meteor-jquery-ui-bootstrap
 
@@ -15,5 +16,8 @@ https://github.com/TimHeckel/meteor-jquery-ui-bootstrap
 
 ### How to use?
 
-`meteor add zeroasterisk:jquery-ui`
-`meteor add zeroasterisk:jquery-ui-bootstrap`
+```
+meteor add zeroasterisk:jquery-ui
+meteor add zeroasterisk:jquery-ui-bootstrap
+```
+
