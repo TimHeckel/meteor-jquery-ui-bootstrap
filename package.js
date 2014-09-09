@@ -1,6 +1,7 @@
 Package.describe({
   summary: "jQuery-UI-Bootstrap - custom CSS jQuery UI theme for Twitter Bootstrap",
   version: "0.2.0",
+  name: "zeroasterisk:jquery-ui-bootstrap3",
   git: "https://github.com/zeroasterisk/meteor-jquery-ui-bootstrap3"
 });
 
